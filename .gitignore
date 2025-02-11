@@ -1,10 +1,11 @@
 # Logs
-logs/
 *.log
 npm-debug.log*
+package-lock.json
 
 # Diretórios de dependências
 node_modules/
+
 
 # Diretórios de build
 dist/
