@@ -1,7 +1,5 @@
 # Logs
-*.log
 npm-debug.log*
-package-lock.json
 
 # Diretórios de dependências
 node_modules/
@@ -13,3 +11,8 @@ build/
 
 # Arquivos de ambiente
 .env
+
+# package-lock.json
+package-lock.json
+
+
